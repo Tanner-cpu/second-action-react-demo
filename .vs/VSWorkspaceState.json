@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\02 Starting Project\\public",
-    "\\__MACOSX\\02 Starting Project",
-    "\\__MACOSX\\02 Starting Project\\src"
+    "\\.github",
+    "\\.github\\workflows"
   ],
-  "SelectedNode": "\\02 Starting Project",
+  "SelectedNode": "\\.github\\workflows\\test.yml",
   "PreviewInSolutionExplorer": false
 }
