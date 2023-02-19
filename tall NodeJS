@@ -1,0 +1,113 @@
+[33mcommit 3a831a500e3c901575564023938736f7a7e0573c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Tanner-cpu <71723237+Tanner-cpu@users.noreply.github.com>
+Date:   Sun Feb 19 10:46:38 2023 -0600
+
+    multiple
+
+[33mcommit 548e2491d91d0448c65f4b34f0fa29ab76dbc5ce[m
+Author: Tanner-cpu <71723237+Tanner-cpu@users.noreply.github.com>
+Date:   Sun Feb 19 10:40:53 2023 -0600
+
+    job executes after each other
+
+[33mcommit fcb009bbf89e091fd0c2ee358cdee00a69935718[m
+Author: Tanner-cpu <71723237+Tanner-cpu@users.noreply.github.com>
+Date:   Sun Feb 19 10:34:23 2023 -0600
+
+    renamed workflow, added deploy job.
+
+[33mcommit 15e345df3f8902d976ec8deb9ce5d431f4bc244c[m
+Author: Tanner-cpu <71723237+Tanner-cpu@users.noreply.github.com>
+Date:   Sun Feb 19 10:21:06 2023 -0600
+
+    work
+
+[33mcommit c21829035631fd44440efb7e5074f9d375535a11[m
+Author: Tanner-cpu <71723237+Tanner-cpu@users.noreply.github.com>
+Date:   Sun Feb 19 10:19:01 2023 -0600
+
+    ok
+
+[33mcommit 9171bff1026723a926aee065d97b18d2ac566db2[m
+Author: Tanner-cpu <71723237+Tanner-cpu@users.noreply.github.com>
+Date:   Sun Feb 19 10:17:21 2023 -0600
+
+    uh
+
+[33mcommit 49a0a3b74ff451b6525ef3c1c736da0472606aa3[m
+Author: Tanner-cpu <71723237+Tanner-cpu@users.noreply.github.com>
+Date:   Sun Feb 19 10:15:02 2023 -0600
+
+    uh
+
+[33mcommit 681bf8fd5f76a78ca704df98c6b19ec93a95b4c3[m
+Author: Tanner-cpu <71723237+Tanner-cpu@users.noreply.github.com>
+Date:   Sun Feb 19 10:12:33 2023 -0600
+
+    work
+
+[33mcommit c238b145a79838383827cb0cc8507bc4c916c5f4[m
+Author: Tanner-cpu <71723237+Tanner-cpu@users.noreply.github.com>
+Date:   Sun Feb 19 10:04:52 2023 -0600
+
+    added test
+
+[33mcommit f616b198262e362cf3833bd2e90b1a5a0d34d4e1[m
+Author: Tanner-cpu <71723237+Tanner-cpu@users.noreply.github.com>
+Date:   Wed Feb 15 20:10:50 2023 -0600
+
+    updated test!
+
+[33mcommit 61edd7aa7d9d5c0482410611e99f1ea7443c343b[m
+Author: Tanner-cpu <71723237+Tanner-cpu@users.noreply.github.com>
+Date:   Wed Feb 15 18:12:37 2023 -0600
+
+    updated tests
+
+[33mcommit 1da1cac950a02bab99063a23068c284cd9b5fcbd[m
+Author: Tanner-cpu <71723237+Tanner-cpu@users.noreply.github.com>
+Date:   Wed Feb 15 18:10:12 2023 -0600
+
+    updated test
+
+[33mcommit 5dfe830fce44022bd333113067de9699b08c0f7d[m
+Author: Tanner-cpu <71723237+Tanner-cpu@users.noreply.github.com>
+Date:   Wed Feb 15 18:08:25 2023 -0600
+
+    updated test
+
+[33mcommit 455e6afb23ebfd8c7b9c53c91f54cbf47ce6b861[m
+Author: Tanner-cpu <71723237+Tanner-cpu@users.noreply.github.com>
+Date:   Wed Feb 15 17:47:39 2023 -0600
+
+    Update test.yml
+
+[33mcommit e7817ff0a50546681351555192b9fb307613206f[m
+Author: Tanner-cpu <71723237+Tanner-cpu@users.noreply.github.com>
+Date:   Wed Feb 15 17:45:18 2023 -0600
+
+    Update test.yml
+
+[33mcommit b893d011077f7c6745745441fd44574ea5899dc9[m
+Author: Tanner-cpu <71723237+Tanner-cpu@users.noreply.github.com>
+Date:   Wed Feb 15 17:41:16 2023 -0600
+
+    added tests
+
+[33mcommit 1df17077054933b786e9e3116dd3f8f07831dafc[m
+Author: Tanner-cpu <71723237+Tanner-cpu@users.noreply.github.com>
+Date:   Wed Feb 15 17:39:42 2023 -0600
+
+    added tests
+
+[33mcommit 9edef1f2d960683983970b5b75187f46ce2c5035[m
+Author: Tanner-cpu <71723237+Tanner-cpu@users.noreply.github.com>
+Date:   Wed Feb 15 17:37:42 2023 -0600
+
+    added tests
+
+[33mcommit df4c1dfd168f768aaee327462b809cc61503fac7[m
+Author: Tanner-cpu <71723237+Tanner-cpu@users.noreply.github.com>
+Date:   Wed Feb 15 16:56:55 2023 -0600
+
+    initial commit
